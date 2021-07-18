@@ -67,6 +67,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C8FE86DF26A4A2E70018FE67 /* Navigation */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Navigation;
+			sourceTree = "<group>";
+		};
 		F21312DC1E0485A50029E33F /* Animation */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,6 +129,7 @@
 		F264BDB81D7F503A00275D46 /* View Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				C8FE86DF26A4A2E70018FE67 /* Navigation */,
 				F21312DC1E0485A50029E33F /* Animation */,
 				F2837BEC1D9AE97700A57AC8 /* Chat */,
 				F2837BED1D9AE97C00A57AC8 /* Login */,
